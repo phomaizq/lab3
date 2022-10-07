@@ -1,0 +1,11 @@
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\bin\Debug\Lab6_Bai2_BTthem.exe.config
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\bin\Debug\Lab6_Bai2_BTthem.exe
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\bin\Debug\Lab6_Bai2_BTthem.pdb
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.csprojAssemblyReference.cache
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.Form1.resources
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.Properties.Resources.resources
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.csproj.GenerateResource.cache
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.csproj.CoreCompileInputs.cache
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.exe
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.pdb
+D:\ki5\C#\Lab6_Bai2_BTthem\Lab6_Bai2_BTthem\obj\Debug\Lab6_Bai2_BTthem.Form2.resources

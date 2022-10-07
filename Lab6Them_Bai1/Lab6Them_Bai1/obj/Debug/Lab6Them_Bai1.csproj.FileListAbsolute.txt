@@ -1,0 +1,15 @@
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\bin\Debug\Lab6Them_Bai1.exe.config
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\bin\Debug\Lab6Them_Bai1.exe
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\bin\Debug\Lab6Them_Bai1.pdb
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\bin\Debug\Interop.WMPLib.dll
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\bin\Debug\AxInterop.WMPLib.dll
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.csprojAssemblyReference.cache
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Interop.WMPLib.dll
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\AxInterop.WMPLib.dll
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.csproj.ResolveComReference.cache
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.Form1.resources
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.Properties.Resources.resources
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.csproj.GenerateResource.cache
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.csproj.CoreCompileInputs.cache
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.exe
+D:\nhan\C#\Lab6Them_Bai1\Lab6Them_Bai1\obj\Debug\Lab6Them_Bai1.pdb
